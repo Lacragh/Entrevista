@@ -6,7 +6,8 @@
 # Ejecutar en la consola el siguiente comando 
 uvicorn app.app:app --reload
 
-
+## isntalar dependencias
+pip install -r requirements.txt
 ```
 
 Open:
